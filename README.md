@@ -11,6 +11,7 @@
 
  In addition, the user is able to change the quote and background color manually by clicking on the "Show another quote" button presented on top-right corner of the webpage. This was done possible via "event listeners" provided by Treehouse Island, Inc.
 
- CONTACT: 
- If you have problems, questions, ideas or suggestions, please contact the creator  chiyuuarchive@gmail.com via mail.
+Disclaimer: All files in this repository with the exception of the file, "script.js", have been provided by Treehouse Island, Inc. Only "script.js" was created and coded by the owner to add functionality to the form as per project instructions.
+
+Contact: If you have questions, ideas or suggestions please contact chiyuuarchive@gmail.com.
 
